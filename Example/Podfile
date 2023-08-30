@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CYPrivateLibrary_Example' do
+  pod 'CYPrivateLibrary', :path => '../'
+
+  target 'CYPrivateLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
