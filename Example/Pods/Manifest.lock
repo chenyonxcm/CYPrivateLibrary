@@ -1,5 +1,5 @@
 PODS:
-  - CYPrivateLibrary (0.1.0)
+  - CYPrivateLibrary (1.0.0)
 
 DEPENDENCIES:
   - CYPrivateLibrary (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CYPrivateLibrary: 75dcf24332b2234b18ec72e21a6585f65bc2ef3e
+  CYPrivateLibrary: f2e3ff29a1092f685a7c4a3718200efa1b889058
 
 PODFILE CHECKSUM: ac3530189c4c3e97beb01416b8504915ef33e492
 
