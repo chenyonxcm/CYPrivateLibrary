@@ -1,0 +1,16 @@
+PODS:
+  - CYPrivateLibrary (0.1.0)
+
+DEPENDENCIES:
+  - CYPrivateLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  CYPrivateLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYPrivateLibrary: 75dcf24332b2234b18ec72e21a6585f65bc2ef3e
+
+PODFILE CHECKSUM: ac3530189c4c3e97beb01416b8504915ef33e492
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module CYPrivateLibrary {
+  umbrella header "CYPrivateLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
